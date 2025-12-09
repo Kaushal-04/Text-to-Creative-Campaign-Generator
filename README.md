@@ -1,4 +1,4 @@
-# Retail Media Creative Tool (Hackathon Prototype)
+# RetailGenius: Text-to-Creative Campaign Generator
 
 An AI-powered tool designed to democratize ad creation for retail advertisers. This application allows users to generate professional, retailer-compliant creative assets from simple text prompts, leveraging Generative AI concepts and a robust constraint-based compliance engine.
 
